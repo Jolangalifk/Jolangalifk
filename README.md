@@ -5,17 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jolangalifk" alt="jolangalifk" /></a> </p>
 
-- 🔭 I’m currently Studying at **SMK Raden Umar Said**
+🔭 I’m currently Studying at **SMK Raden Umar Said**
 
-- 🌱 I’m currently learning **vue.js**
+🌱 I’m currently learning **vue.js**
 
-- 🤝 I’m looking for help with **communication and collaboration**
+📫 How to reach me **jolangalifk@gmail.com**
 
-- 💬 Ask me about **About Front End**
-
-- 📫 How to reach me **jolangalifk@gmail.com**
-
-- ⚡ Fun fact **I like to play sports, especially soccer**
+⚡ Fun fact **I like to play sports, especially soccer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
